@@ -7,6 +7,6 @@
 <title>새로운 JSP</title>
 </head>
 <body>
-	<h1>개굿!</h1>
+	<h1>x테스트</h1>
 </body>
 </html>
